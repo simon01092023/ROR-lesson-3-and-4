@@ -1,7 +1,4 @@
-# frozen_string_literal: true
-
 # Prompt for and collect personal details, storing them in a hash
-
 person = {}
 
 # Collect first name
